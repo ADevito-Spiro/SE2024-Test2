@@ -1,11 +1,12 @@
-**Test 2:**
+# **Test 2:**
 
 * Austin Devito-Spiro
+* Eagle ID: 900972840
 * ad26761@georgiasouthern.edu
 
 --------------------------------------------
 
-This repo is for Test 2 of Introduction to Software Engineering Fall 2024.
+## This repo is for Test 2 of Introduction to Software Engineering Fall 2024.
 * This repo covers:
 * Creating of issues via the project board,
 * Creating branches for seperate issues,
